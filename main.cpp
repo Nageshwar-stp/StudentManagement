@@ -1,6 +1,8 @@
+ // Student Management System
+// stp.hike
+// risk.indus2965
+
  #include<iostream>
-
-
 
 using namespace std;
 
@@ -51,7 +53,6 @@ void enter()
 				cin>>arr5[i];
 
 
-
 			}
 
 	    	}
@@ -59,7 +60,6 @@ void enter()
 	    	else
 
 	    	{
-
 
 
 	    		for(int i=total;i<ch+total;i++)
